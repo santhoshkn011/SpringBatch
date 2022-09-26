@@ -33,4 +33,6 @@ public class JobController {
             e.printStackTrace();
         }
     }
+//    SELECT COUNT(*) FROM Customers_Data.customers_info WHERE country="United States";
+//    DELETE FROM Customers_Data.customers_info;
 }
